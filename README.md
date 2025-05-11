@@ -1,4 +1,4 @@
-# 🏨 Projet 3 - [OpenClassrooms](https://openclassrooms.com/fr/) "Intégrateur Web"
+# Créez la page d'accueil d'une agence de voyage avec HTML & CSS
 Création d'une landing page permettant aux usagers de trouver des hébergements et des activités dans la ville de leur choix.
 
 ### Objectif du projet : 
@@ -8,4 +8,4 @@ Création d'une landing page permettant aux usagers de trouver des hébergements
 
 ▶ [Voir le projet : Booki](https://skies-land.github.io/Projet_3_OpenClassrooms_-_Booki/) </br> </br>
 
-![Desktop](https://github.com/Skies-Land/Projet-3-OpenClassrooms_-_Booki/assets/146822518/b2abb6b9-1dcd-4f8c-be6f-500d0c326401)
+![Desktop](./overview.png)
